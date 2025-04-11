@@ -3,7 +3,7 @@
 ## 👋 About Me
 
 ## 📄 CV
-- [My CV](cv.pdf)
+- [My CV]([cv.pdf](https://github.com/Fri3m/Fri3m/blob/main/CV.pdf))
 
 ## 🎓 Education
 - **Marmara University** - Software Engineering
