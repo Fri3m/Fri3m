@@ -6,12 +6,13 @@ Software Engineering student at Marmara University with a passion for developing
 - [My CV](https://github.com/Fri3m/Fri3m/blob/main/CV.pdf)
 
 ## 🎓 Education
-- **Marmara University** - Software Engineering
+- **Marmara University** - Computer Engineering
 
 ## 💻 Skills
-- **Languages:** Java, Python
-- **Technologies:** Object-Oriented Programming, Data Structures & Algorithms
-- **Tools:** Git, GitHub
+- **Languages:** Python, Java, JavaScript, C
+- **Databases:** Microsoft SQL, MySQL, PostgreSQL, Firebase
+- **Web Development:** HTML, CSS, React, Node.js
+- **Technologies:** Git, REST APIs, Agile & Scrum, Unity
 
 ## 🚀 Projects
 ### Multi-App Platform
