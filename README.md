@@ -1,7 +1,7 @@
 # Ömer Can Şimşek
 
 ## 👋 About Me
-
+Software Engineering student at Marmara University with a passion for developing high-quality applications. Based in Istanbul, Turkey. I'm constantly learning and exploring new technologies to expand my skill set.
 ## 📄 CV
 - [My CV](https://github.com/Fri3m/Fri3m/blob/main/CV.pdf)
 
