@@ -18,6 +18,7 @@ Software Engineering student at Marmara University with a passion for developing
 ### Multi-App Platform
 A comprehensive platform hosting multiple web applications in one unified interface. Features modern UI design with responsive components.
 - **Technologies used:** HTML, CSS, JavaScript, Vue.js
+- [**View on GitHub**](https://github.com/Fri3m/multi-app)
 - [Visit the page](https://multi-app-1hy.pages.dev/)
 
 ### VictoryTransport
@@ -30,7 +31,7 @@ Collection of my solutions to various LeetCode algorithmic problems, demonstrati
 - **Technologies used:** Python, Data Structures, Algorithms
 - [**View on GitHub**](https://github.com/Fri3m/LeetCodeSolutions)
 
-### CSE3063F24P1_GRP11
+### Object Orianted BYS System
 Academic group project developed as part of university coursework. Collaborative software development with a team of fellow students.
 - **Technologies used:** Java, Python
 - [**View on GitHub**](https://github.com/Fri3m/CSE3063F24P1_GRP11)
